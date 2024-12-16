@@ -7,21 +7,72 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am currently a research assistant in [Bouvé College of Health Sciences](https://bouve.northeastern.edu/) at Northeastern University supervised by [Prof. Sara Lopez-Pintado](https://bouve.northeastern.edu/directory/sara-lopez-pintado/). I earned M.S in Applied Mathematics from Northeastern University. Piror to that, I earned my B.S. in Computer Science & Applied Math from Hong Kong University of Science and Technology(HKUST).  
+Hi, big Welcome! I am currently a research assistant in [Bouvé College of Health Sciences](https://bouve.northeastern.edu/) at Northeastern University supervised by [Prof. Sara Lopez-Pintado](https://bouve.northeastern.edu/directory/sara-lopez-pintado/). I earned M.S in Applied Mathematics from Northeastern University. Piror to that, I earned my B.S. in Computer Science & Applied Math from Hong Kong University of Science and Technology(HKUST).  
 
-My research interset lies abroadly in the fields of functional data analysis, statistical genetics and epidemology modeling. Now, I'm particular fascinated by functional depth and its applications to biomedical studies. <!-- maybe can link to my projects -->
+My research interset lies abroadly in the fields of functional data analysis, statistical genetics and general mathematical modeling. Now, I'm particular fascinated by functional depth and its applications to biomedical studies. <!-- maybe can link to my projects -->
 
-[Latest CV]()
+[CV](../files/CV_update.pdf)
 
-On-going Projects
-======
+# Selected Projects
 
 
-Infant Sucking Pattern Investigation using Functional Data Analysis Approach
+## Infant Sucking Pattern Investigation using Functional Data Analysis Approach
+
+<div style="display: flex; align-items: center; margin-bottom: 10px;">
+  <img src="images/fda_nns.png" alt="NNS Image" style="width: 350px; margin-right: 50px; border: 1px solid #ddd; border-radius: 5px;">
+  <div style="font-family: 'Georgia', serif; font-size: 18px; line-height: 1.6;">
+    Proposed a multilevel functional principal component analysis framework (MFPCA) that decomposes the variance of the transformed log-periodogram signal into subject-level and burst-level components to enable population comparison for treatment understanding.  <br>
+    <a href="https://asha2024-asha.ipostersessions.com/Default.aspx?s=23-9C-3C-66-1E-AD-79-F2-8B-D7-B7-0C-D9-2C-24-45" target="_blank" rel="noreferrer noopener">Poster</a>
+
+  </div>
+  
+</div>
+
+
 ---
 
-Leveraging Functional Data for Autism Aggression Monitoring
+## Leveraging Functional Data Analysis for Autism Aggression Monitoring
+
+<div style="display: flex; align-items: center; margin-bottom: 10px;">
+  <img src="images/fda_autism.png" alt="Autism Image"  style="width: 350px; margin-right: 50px; border: 1px solid #ddd; border-radius: 5px;">
+  <div style="font-family: 'Georgia', serif; font-size: 18px; line-height: 1.6;">
+    Currently working on characterizing behavioral changes and offering novel insights into autism mechanisms from the physiological perspective.
+  </div>
+</div>
+
 ---
+
+## Viral Kinetic Modeling on Covid-19 Epidemiology
+
+<div style="display: flex; align-items: center; margin-bottom: 10px;">
+  <img src="images/covid_vk.png" alt="Covid Image"  style="width: 350px; margin-right: 50px; border: 1px solid #ddd; border-radius: 5px;">
+  <div style="font-family: 'Georgia', serif; font-size: 18px; line-height: 1.6;">
+    Implemented a target cell-limited model to capture the dynmaics of covid-virus. <br>
+    
+    <a href="https://docs.google.com/presentation/d/1n9kvw_mhOzQnsa9CF_U19CciEU0Y6cL4KPoK0MkMFu8/edit#slide=id.p" target="_blank" rel="noreferrer noopener">Slides</a>
+  </div>
+
+</div>
+
+
+
+---
+
+---
+
+---
+# Conference Presentations
+---
+
+[Under Review]  **Martens, A., Jiang, W.**, Rogers-Vizena, C., Eichler, F., Lopez-Pintado, S., & Zimmerman, E. (2025).  
+Utilizing Functional Data Analysis to Examine Infant Suck Development Across Clinical Populations.  
+Abstract submitted at the *Pediatric Academic Societies (PAS) Annual Meeting*, Honolulu, HI.
+
+
+**Martens, A., Jiang, W.**, Rogers-Vizena, C., Lopez-Pintado, S., & Zimmerman, E. (2024).  
+Variability in Sucking Patterns in Infants with Cleft Lip and/or Palate.  
+Abstract accepted at *The 2024 American Speech-Language-Hearing Association (ASHA)*, Seattle, WA.  [Poster](https://asha2024-asha.ipostersessions.com/Default.aspx?s=23-9C-3C-66-1E-AD-79-F2-8B-D7-B7-0C-D9-2C-24-45)
+
 
 <!-- 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
